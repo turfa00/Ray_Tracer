@@ -1,0 +1,3 @@
+C:/Users/turfa/OneDrive/Documents/GitHub/RayTracer/build/CMakeFiles/raytracer.dir
+C:/Users/turfa/OneDrive/Documents/GitHub/RayTracer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/turfa/OneDrive/Documents/GitHub/RayTracer/build/CMakeFiles/ZERO_CHECK.dir

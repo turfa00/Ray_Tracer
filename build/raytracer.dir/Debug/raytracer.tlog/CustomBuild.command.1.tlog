@@ -1,0 +1,10 @@
+^C:\USERS\TURFA\ONEDRIVE\DOCUMENTS\GITHUB\RAYTRACER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/turfa/OneDrive/Documents/GitHub/RayTracer -BC:/Users/turfa/OneDrive/Documents/GitHub/RayTracer/build --check-stamp-file C:/Users/turfa/OneDrive/Documents/GitHub/RayTracer/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
