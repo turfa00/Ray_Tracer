@@ -17,7 +17,7 @@ Sous Windows, pour obtenir la version de débogage de CMake, il faut exécuter c
 *cmake --build build* \
 
 Ensuite, exécutez le programme comme ceci : \
-build\Debug\main.exe > image_name.ppm\
+*build\Debug\main.exe > image_name.ppm* \
 
 Cette version contient déjà le fichier le fichier CMakeLists.txt avec l'ensemble d'instructions pour l'exécutable.
 
