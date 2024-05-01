@@ -4,8 +4,8 @@ Ceci est un implementation du livre Ray Tracing in One Weekend écrit par Peter 
 pour générer des images réalistes par ordinateur. Il couvre des sujets tels que les intersections rayons-objets, les matériaux, l'éclairage et le rendu, \
 en passant progressivement à des fonctionnalités plus avancées telles que les ombres, les réflexions et les réfractions.
 
-J'ai choisi de présenter cette réalisation du ray tracer "open" au publiques en raison de la confidentialité du code que j'ai utilisé lors de mes études qui allaient \
-plus loin dans les techniques du ray tracing et path tracing. Ceci n'est en aucun cas un acte de plagiat mais pour montrer ma compréhension du lancer de rayons.
+J'ai choisi de présenter cette réalisation du ray tracer au publiques en raison de la confidentialité du code que j'ai utilisé lors de mes études qui allaient \
+plus loin dans les techniques du ray tracing et path tracing.
  
 ### Exécution
 le code est écrit en C++ et peut donc être exécuté par n'importe quel compilateur prenant en charge C++.\
