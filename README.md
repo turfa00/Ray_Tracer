@@ -25,5 +25,5 @@ Cette version contient déjà le fichier le fichier CMakeLists.txt avec l'ensemb
 ![image](https://github.com/turfa00/Ray_Tracer/assets/80334127/0205ad9e-3958-4608-904a-9193d29c3681)
 
 ### Références
-Ray Tracing in One Weekend par Peter Shirley
+Ray Tracing in One Weekend par Peter Shirley \
 https://raytracing.github.io/books/RayTracingInOneWeekend.html
